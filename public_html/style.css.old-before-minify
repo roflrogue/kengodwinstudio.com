@@ -1,0 +1,89 @@
+body{
+	background-color: #00134d;
+	font-family: arial;
+}
+h1, h2, h3{
+	color: white;
+	font-family: 'Great Vibes', cursive;
+}
+h1 {
+	font-size: 4em;
+	margin-top: 1em;
+}
+h2 {
+	font-size: 3em;
+}
+h3{
+	font-size: 2em;
+	margin:.5em;
+}
+li a{
+	font-family: 'Great Vibes', cursive;
+	font-size: 2em;
+	color: rgba(102, 179, 255, .7);
+}
+p a{
+	color: white;
+}
+p{
+	font-size: 1.15em;
+}
+section{
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+#indexCarousel{
+	background-color: black;
+}
+.slide0{
+	background: url(img/slide0.jpg) center center no-repeat;
+	min-width: 300px;
+	min-height: 500px; 
+}
+.slide1{
+	background: url(img/slide1.jpg) center center no-repeat;
+	min-width: 300px;
+	min-height: 500px;
+}
+.slide2{
+	background: url(img/slide2.jpg) center center no-repeat;
+	min-width: 300px;
+	min-height: 500px;
+}
+.slide3{
+	background: url(img/slide3.jpg) center center no-repeat;
+	min-width: 300px;
+	min-height: 500px;
+}
+.slide4{
+	background: url(img/slide4.jpg) center center no-repeat;
+	min-width: 300px;
+	min-height: 500px;
+}
+.slide5{
+	background: url(img/slide5.jpg) center center no-repeat;
+	min-width: 330px;
+	min-height: 500px;
+}
+aside{
+	background-color: brown;
+	background: url(img/brown_paper_aside.png);
+	margin-top: 2em;
+	margin-bottom: 2em;
+	padding: .5em;
+	border-radius: .25em;	
+}
+aside *{
+	width:100%;
+	margin: 0 auto;
+	margin-top: .5em;
+}
+.collagesBtn{
+	max-width: 130px;
+}
+.testimonial{
+	background-color: brown;
+	background: url(img/brown_paper_aside.png);
+	border-radius: .25em;
+}
+
